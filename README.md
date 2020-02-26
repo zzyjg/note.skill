@@ -1,0 +1,2 @@
+# note.yjg
+NOTE-YJG
