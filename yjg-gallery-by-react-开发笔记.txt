@@ -1,0 +1,17 @@
+React实现画廊应用，师从Materliu，基于最新版yeoman generator-react-webpack创建！
+--------------------------------------------------------------------------------
+2017.2.25 练后总结
+--------------------------------------------------------------------------------
+1.依赖的node_modules在官方安装过程中默认已执行，注意过程中提示（若不成功需自行手工完成npm install）
+2.npm install html-webpack-plugin --save-dev （官方没要求--save-dev，必要性？）
+3.npm start或npm run serve启动项目（详见package配置），项目快捷访问书签命名yo-iframe yo-inline
+4.git add -A (所有文件均更新嵌入)，要查看命令参数详情执行git help add将进入网页详解
+5.webpack新旧版本区分（有必要详了解），项目目前仍用1.x版
+[1.x] https://webpack.github.io/docs/
+[2.x] https://webpack.js.org/
+6.cnpm（淘宝npm，暂未用）
+https://npm.taobao.org/
+
+
+
+

@@ -1,0 +1,14 @@
+1.开放的api
+https://api.github.com/
+
+2.api->按受欢迎程度排序返回js类项目的json数据
+https://api.github.com/search/repositories?q=javascript&sort=stars
+
+3.api->返回用户信息
+https://api.github.com/users
+https://api.github.com/users/zzyjg
+
+4.api->返回某用户的gists
+https://api.github.com/users/octocat/gists
+
+5.其它详参第1项
