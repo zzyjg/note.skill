@@ -126,6 +126,21 @@ vue ui //启动GUI
 @/  项目的src文件夹
 ./  当前目录，区别于上
 
+## 示例
+### 示例1：条件激活某组件亮显(注意class...,active最终是true/false)
+	<template>
+		<div>
+			<ul>
+				<li v-for="(item,index) in lists" 
+					:key="index" @click="choose(index)"
+					:class="{active: index == current && current != ''}"></li>
+			</ul>
+		</div>
+	</template>
+	<script></script>
+	<style scoped>
+		li.active{background:green;}
+	</style>
 
 
 
