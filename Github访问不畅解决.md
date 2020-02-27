@@ -10,8 +10,8 @@
 以Mac为例，命令行下输入：sudo vi /etc/host，然后输入电脑的密码，打开host文件。
 
 ## 3.增加host映射(20200227更新)
-199.232.5.194 fastly.net
-140.82.113.4 github.com
+199.232.5.194	github.global.ssl.fastly.net
+140.82.113.4	github.com
 
 ## 4.更新DNS缓存
 
