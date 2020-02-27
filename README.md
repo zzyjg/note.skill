@@ -1,2 +1,2 @@
-# note.yjg
-NOTE-YJG
+# note.skill
+技能篇
